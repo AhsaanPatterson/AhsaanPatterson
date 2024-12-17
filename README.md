@@ -1,9 +1,11 @@
 <h1>Hi, I'm Ahsaan! <br/></h1>
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/AhsaanPatterson/ActiveDirectoryLab)
+- [Active Directory Home Lab](https://github.com/AhsaanPatterson/ActiveDirectoryLab)
 
 - [Keylogger C#](https://github.com/AhsaanPatterson/KeyloggerCsharp)
+
+- [Elastic SIEM Kali Linux Lab](https://github.com/AhsaanPatterson/Elastic-SIEM-Lab)
 
 <h2> 🤳 Connect with me:</h2>
 
